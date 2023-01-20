@@ -52,3 +52,11 @@ Git - это одна из реализаций распределённых с�
 ## Ссылки
 [пример](http://example.com/ "Необязательная подсказка")
 
+## git pull
+
+## git push
+
+## git clone
+
+A clone is a full copy of a repository, including all logging and versions of files.
+
